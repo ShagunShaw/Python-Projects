@@ -4,8 +4,8 @@ from tkinter import messagebox
 class DB_connect:
     def __init__(self) :
         try:
-            self.conn= mysql.connector.connect(host='localhost', user='root',
-                                               password='', database='hit-db-demo')
+            self.conn= mysql.connector.connect(host='localhost', user='your_user_name',       # make the suitable changes as required
+                                               password='your_password', database='database name')
             self.mycursor=self.conn.cursor()
         except:
             messagebox.showerror("Couldn't connect", "Some error occured. Could not connect to the database. Try again")                         
