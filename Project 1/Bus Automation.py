@@ -1,3 +1,7 @@
+# Before runnning this program make sure you have the 'SIH Dataset.csv' in the same folder in  which your program is running.
+# To the 'SIH Dataset', in the last row add any current approaching time in the 'start time' column or else you might have to wait for  
+# too long to see the program in execution. 
+# For example, if your current time is '19:21' then add the time '19:23' in your dataset and save it and wait for 2 minutes.
 import pandas as pd
 # Source:   https://yometro.com/buses/dtc-bus-route-131A (consecutive busses leave at 10 min interval)
 
