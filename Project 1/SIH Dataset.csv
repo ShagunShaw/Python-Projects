@@ -1,0 +1,61 @@
+﻿Bus Number,Bus Starts,Bus Ends,First Bus,Last Bus,Total Trips,Total Stops,Avg Time
+03STL,Indraprastha Depot,Shalimar Bagh Desu Colony,6:00,7:50,7,34,67
+100,Kendriya Terminal (Church Road),Adarsh Nagar / Bharola Village,7:00,22:00,91,42,68
+100STL,Adarsh Nagar / Bharola Village,Rani Khera Depot 3,18:40,22:20,23,45,58
+101B,Old Delhi Railway Station,Swaroop Nagar JJ Colony,6:20,6:20,1,33,64
+101EXT,Old Delhi Railway Station,Swaroop Nagar GT Road,8:10,17:30,15,33,62
+102,Old Delhi Railway Station,Rohini Sec 22 Terminal,7:10,21:50,80,51,89
+102STL,Rani Khera Depot 3,Rohini Sec 22 Terminal,6:00,8:00,11,17,33
+103,Old Delhi Railway Station,Ramdev Chowk Narela Terminal,7:40,21:40,73,52,119
+103A,GTK Depot,Ramdev Chowk Narela Terminal,7:40,21:40,41,26,69
+104,Shivaji Stadium Terminal,Jharoda Village (Burari),7:00,21:40,65,40,76
+104STL,Rani Khera Depot 2,Jharoda Village (Burari),6:00,7:50,10,50,107
+106,Old Delhi Railway Station (Fatehpuri),Qutub Garh Village,7:30,21:50,82,70,154
+107,Old Delhi Railway Station,Katewara Village,7:40,21:50,61,71,155
+107STL,Rani Khera Depot 1,Katewara Village,6:00,10:00,25,32,84
+108,Nehru Vihar,Hari Nagar Shaheed Pawan Sahni Chowk,6:00,21:50,96,42,70
+108STL,BBM Cluster Depot,Nehru Vihar,6:00,8:10,14,13,15
+109,Old Delhi Railway Station,Bankner Village,7:30,21:30,53,47,113
+109A,Azad Pur Terminal,Bankner Village,6:30,21:50,60,31,82
+109STL,Bawana Sec 1 Cluster Depot,Bankner Village,6:00,7:50,10,14,36
+112,Old Delhi Railway Station,Safiabad Border,7:10,21:50,65,53,124
+112A,GTK Depot,Safiabad Border,6:10,21:50,61,26,75
+112STL,Bawana Sec 1 Cluster Depot,Safiabad Border,6:00,9:30,14,16,41
+113,Old Delhi Railway Station,Sannoth Village,7:30,21:50,58,71,140
+113A,GTK Depot,Sannoth Village,7:20,21:50,47,44,90
+113STL,Bawana Sec 1 Cluster Depot,Sannoth Village,6:00,8:30,12,6,17
+114,Old Delhi Railway Station (Fatehpuri),Qutub Garh Village,7:30,21:50,67,80,152
+114A,Begumpur,Qutub Garh Village,8:00,21:50,74,29,62
+114A2,Begumpur,Qutub Garh Village,12:10,17:30,23,29,62
+114ASTL,Rani Khera Depot 3,Auchandi Border,6:00,10:40,23,33,82
+114B,Azad Pur Terminal,Katewara Village,8:30,20:40,27,59,122
+114B2,Begumpur,Auchandi Border,12:00,18:30,29,34,78
+114EXT,Begumpur,Katewara Village,13:20,18:20,26,31,69
+114STL,Rani Khera Depot 3,Qutub Garh Village,6:00,10:00,25,28,66
+117,Old Delhi Railway Station,Bhalaswa JJ Colony,7:00,21:40,38,36,67
+119,Old Delhi Railway Station,Bajitpur Village,6:40,21:50,65,63,63
+119A,Azad Pur Terminal,Bajitpur Village,6:50,21:50,58,47,93
+119STL,Bajitpur Village,Bawana Sec 1 Cluster Depot,21:10,21:50,5,10,18
+120,Mori Gate Terminal,Ramdev Chowk Pithori Jhori,6:20,21:50,89,54,121
+120A,Azad Pur Terminal,Ramdev Chowk Pithori Jhori,11:30,21:40,43,37,90
+120STL,Ramdev Chowk Pithori Jhori,Rani Khera Depot 1,17:20,22:20,31,44,104
+123,Mori Gate Terminal,Harewali Gaon,7:50,21:50,60,72,139
+123STL,Rani Khera Depot 1,Harewali Gaon,6:00,11:20,22,31,79
+124,Old Delhi Railway Station,Mukhmel Pur Village,6:50,21:50,84,42,93
+124STL,Bawana Sec 1 Cluster Depot,Mukhmel Pur Village,6:00,7:50,11,18,56
+125,Old Delhi Railway Station,Palla Village,7:20,21:40,75,43,104
+125A,Azad Pur Terminal,Palla Village,12:00,20:50,37,27,73
+125EXT,Anand Vihar ISBT Terminal,Swaroop Nagar GT Road,6:00,21:40,90,47,105
+125STL,Rani Khera Depot 3,Palla Village,6:00,16:40,30,59,137
+126,Old Delhi Railway Station,Badli Village,7:20,21:50,61,33,59
+126STL,Rani Khera Depot 2,Badli Village,6:00,7:40,7,41,76
+127,Old Delhi Railway Station,Haider Pur Village,6:30,21:50,89,24,46
+127STL,Rani Khera Depot 2,Haider Pur Village,6:00,7:30,7,51,92
+128,Mori Gate Terminal,Khera Khurd Village,7:20,21:40,68,35,76
+128STL,Rani Khera Depot 1,Khera Khurd Village,6:00,10:50,10,51,112
+129,Old Delhi Railway Station,Jhingola Village,7:20,21:50,57,45,106
+129A,Azad Pur Terminal,Jhingola Village,12:00,20:50,26,29,75
+129STL,Rani Khera Depot 3,Jhingola Village,6:00,10:40,21,60,139
+131,Old Delhi Railway Station,Lampur Border,7:10,22:20,91,71,157
+131A,Alipur Village GT Road,Lampur Border,12:40,20:30,38,35,76
+123,hgf,jfh,21:01,16:48,45,55,45
